@@ -146,4 +146,3 @@ console.log(threeNo(1,2))
 const arrowNo = (o, l) => o !== l ? console.log("не равны") : console.log("равны");
 console.log("Проверяем функцию не...");
 arrowNo(1, 2)
-
